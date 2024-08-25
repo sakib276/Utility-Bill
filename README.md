@@ -1,5 +1,5 @@
 # Utility-Bill
-This is our first java project
-This contain
--Login 
+This is our first java project\n
+This contain\n
+-Login \n
 -Registration
